@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stocks>
+    <stock symbol="AAPL" sector="Technology">
+        <company>Apple Inc.</company>
+        <price>175.50</price>
+        <change>+2.30</change>
+        <volume>45000000</volume>
+        <market_cap>2.8T</market_cap>
+    </stock>
+    <stock symbol="GOOGL" sector="Technology">
+        <company>Alphabet Inc.</company>
+        <price>142.80</price>
+        <change>+1.50</change>
+        <volume>28000000</volume>
+        <market_cap>1.8T</market_cap>
+    </stock>
+    <stock symbol="TSLA" sector="Automotive">
+        <company>Tesla Inc.</company>
+        <price>245.20</price>
+        <change>-5.80</change>
+        <volume>65000000</volume>
+        <market_cap>780B</market_cap>
+    </stock>
+    <stock symbol="MSFT" sector="Technology">
+        <company>Microsoft Corp.</company>
+        <price>378.90</price>
+        <change>+3.20</change>
+        <volume>32000000</volume>
+        <market_cap>2.9T</market_cap>
+    </stock>
+    <stock symbol="AMZN" sector="E-commerce">
+        <company>Amazon.com Inc.</company>
+        <price>155.30</price>
+        <change>+0.80</change>
+        <volume>25000000</volume>
+        <market_cap>1.6T</market_cap>
+    </stock>
+</stocks>

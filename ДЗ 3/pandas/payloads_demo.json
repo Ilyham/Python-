@@ -1,0 +1,31 @@
+[
+  {
+    "id": 1,
+    "payload": {
+      "name": "a",
+      "attrs": {
+        "secret_slot": "DECOY",
+        "ok": true
+      }
+    }
+  },
+  {
+    "id": 2,
+    "payload": {
+      "name": "b",
+      "attrs": {
+        "secret_slot": "REAL_SLOT",
+        "ok": false
+      }
+    }
+  },
+  {
+    "id": 3,
+    "payload": {
+      "name": "c",
+      "attrs": {
+        "note": "none"
+      }
+    }
+  }
+]
